@@ -19,7 +19,9 @@
   "homepage": "https://github.com/cheloghm/GBox#readme",
   "dependencies": {
     "apollo-server": "^2.16.1",
+    "dotenv": "^8.2.0",
     "esm": "^3.2.25",
-    "graphql": "^15.3.0"
+    "graphql": "^15.3.0",
+    "mongoose": "^5.10.0"
   }
 }
